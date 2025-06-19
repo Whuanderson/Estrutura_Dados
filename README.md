@@ -2,6 +2,13 @@
 
 Este projeto implementa estruturas de dados utilizando Java e JavaFX para fornecer uma interface gráfica interativa. A aplicação é iniciada pela classe `App`, localizada no diretório `src`.
 
+## 🎥 Demonstração
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Whuanderson/Estrutura_Dados/refs/heads/main/assets/gif2.gif" alt="Demonstração 2" width="400" />
+  <img src="https://raw.githubusercontent.com/Whuanderson/Estrutura_Dados/refs/heads/main/assets/gif1.gif" alt="Demonstração 1" width="460" />  
+</p>
+
 ## 📋 Pré-requisitos
 
 - **Java Development Kit (JDK) 11 ou superior**  
